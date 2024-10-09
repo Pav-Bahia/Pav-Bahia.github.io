@@ -1,0 +1,14 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 100">
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="20%" style="stop-color:#4B9BD6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1E5799;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- "Cloud" text -->
+  <text x="10" y="70" font-family="Arial, sans-serif" font-size="30" font-weight="bold" fill="url(#gradient)">Cloud</text>
+  <!-- "Expanse" text -->
+  <text x="95" y="70" font-family="Arial, sans-serif" font-size="30" font-weight="bold" fill="url(#gradient)">Expanse</text>
+</svg>
